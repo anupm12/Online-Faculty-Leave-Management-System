@@ -1,0 +1,12 @@
+SMAP
+substituteaccept_jsp.java
+JSP
+*S JSP
+*F
++ 0 substituteaccept.jsp
+GITSLms/preview/Geetanjali/faculty/substituteaccept.jsp
+*L
+1,9:49
+11,38:60
+48,3:98
+*E

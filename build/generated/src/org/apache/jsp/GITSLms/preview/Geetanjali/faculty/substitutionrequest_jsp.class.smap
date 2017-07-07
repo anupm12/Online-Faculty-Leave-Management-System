@@ -1,0 +1,27 @@
+SMAP
+substitutionrequest_jsp.java
+JSP
+*S JSP
+*F
++ 0 substitutionrequest.jsp
+GITSLms/preview/Geetanjali/faculty/substitutionrequest.jsp
+*L
+1,15:52
+15,109:67
+124:176,3
+125,12:179
+137:191,3
+138,73:194
+211,24:268
+234,6:292
+240,6:298,3
+246:316
+247:317,3
+248,2:320
+250:322,3
+251,3:325
+253,7:328
+259,24:335
+283:359,3
+284,56:362
+*E
